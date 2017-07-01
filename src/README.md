@@ -39,7 +39,7 @@ feature_make_1.py
 train_lgb.py  
 train_xgb.py  
 
-模型融合代码：
+模型融合代码：  
 linear_fusion.py   线性融合（最好成绩）  
 multiply_fusion.py  相乘融合  
 
