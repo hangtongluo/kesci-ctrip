@@ -4,9 +4,9 @@
 运行环境：python2.7
 
 生成训练集特征的代码：
-gen_trainfeature1.py   --生成train_related_feature1.csv放在目录data下
-gen_trainfeature2.py   --生成train_feature1.csv放在data目录下
-gen_trainfeature3.py   --生成train_feature_add3.csv,  
+gen_trainfeature1.py   --生成train_related_feature1.csv放在目录data下  
+gen_trainfeature2.py   --生成train_feature1.csv放在data目录下  
+gen_trainfeature3.py   --生成train_feature_add3.csv  
 gen_trainfeature4.py   --生成train_feature_add4_1.csv放在data/new-feature-6-22/目录下
 
 生成测试集特征的代码（相应的测试集特征）：
