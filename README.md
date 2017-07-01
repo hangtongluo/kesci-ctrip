@@ -1,5 +1,8 @@
 # kesci-ctrip
-**用户预订售卖房型概率预测**
+**用户预订售卖房型概率预测**  
+2st Place Solution for kesci-ctrip room prediction  
+
+题目说明及数据地址： https://www.kesci.com/apps/home/#!/lab/dataset/58d4e28c84a25f34b1d94906/document  
 
 团队：到极限了吗？  
 成员：☆玄☆、gq、lht
